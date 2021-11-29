@@ -5,7 +5,7 @@ SVM accuracy: 97.3%
 
 K Means accuracy: 88.7%
 
-C50 accuracy: 84.4%
+C50 accuracy: 86.7%
 
 As shown above, the accuracy percent was highest for the SVM Algorithm.
 I found that each of the corresponding scripts showed the predicted results in a very different manner. In my opinion, the SVM was the easiest to visualize due to the initial testing for correlation by reviewing the parameters in the plots.
